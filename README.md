@@ -97,6 +97,7 @@ note right of SensorDeHumo
   => Bajo acoplamiento / DIP
 end note
 @enduml
+```
 
 ### Secuencia
 
@@ -151,8 +152,9 @@ deactivate RegistroEventos
 deactivate SensorDeHumo
 
 @enduml
+```
 
-## Ejecución
+## Ejecucion
 
 cd DomoticaObserver.App
 dotnet run
