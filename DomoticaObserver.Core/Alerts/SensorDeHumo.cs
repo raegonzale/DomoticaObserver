@@ -41,7 +41,7 @@ namespace DomoticaObserver.Core.Alerts
 
             if (nivelHumo >= UMBRAL)
             {
-                Notificar("¡Alerta de humo!");
+                Notificar("¡Su casa se quema parcero!");
             }
         }
     }

@@ -15,7 +15,7 @@ namespace DomoticaObserver.Infrastructure.Alerts
 
         private void EnviarPushAlDueno(string msg)
         {
-            Console.WriteLine($"[PUSH] Su casa se quema parcero: {msg}");
+            Console.WriteLine($"[PUSH Mensaje al celular] ¡Alerta!: {msg}");
         }
     }
 }

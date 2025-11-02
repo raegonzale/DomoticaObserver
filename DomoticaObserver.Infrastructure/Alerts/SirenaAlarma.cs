@@ -15,7 +15,7 @@ namespace DomoticaObserver.Infrastructure.Alerts
 
         private void ActivarSirena(string motivo)
         {
-            Console.WriteLine($"[UIUUUU UIUUUU UIUUUU] Alarma activada: {motivo}");
+            Console.WriteLine($"[Activación alarma] ¡Alerta!: {motivo}");
         }
     }
 }
