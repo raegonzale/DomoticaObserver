@@ -1,3 +1,9 @@
+![.NET](https://img.shields.io/badge/.NET-8.0-blue)
+![Architecture](https://img.shields.io/badge/Architecture-Clean-brightgreen)
+![Pattern](https://img.shields.io/badge/Pattern-Observer-orange)
+![SOLID](https://img.shields.io/badge/Principles-SOLID-yellow)
+
+
 # Domótica Observer (.NET 8)
 
 **Patrón de diseño aplicado:** `Observer`  
