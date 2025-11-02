@@ -1,0 +1,31 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Ll]og/
+
+# Visual Studio
+.vs/
+
+# User-specific / IDE junk
+*.user
+*.suo
+.idea/
+
+# Logs / dumps
+*.log
+*.dmp
+
+# OS basura
+Thumbs.db
+.DS_Store
+
+# NuGet / packages
+*.nupkg
+.nuget/
+packages/
+project.lock.json
+
+# Publicación
+*.publish.xml
+publish/
